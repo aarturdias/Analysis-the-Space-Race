@@ -50,3 +50,7 @@ A Análise Exploratória de Dados (EDA) sobre a corrida espacial e lançamentos 
 <p align="center">
   <img width="80%" height="80%" src="images/hist2.jpg">
 </p>
+
+### DataSet retirado em:
+
+https://nextspaceflight.com/
